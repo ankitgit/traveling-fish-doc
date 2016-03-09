@@ -20,7 +20,7 @@ Purpose of his applicaion is to let people plan, organize, and then share about 
 
 Let the other users to see and explore the places descovered by fellow traveling fishes. Empower the users to promot and help small and poor vendors whom they met on their last trip. Let the users posses the power to benifit poor vendors and help them in becoming economically strong by providing free promotion via this platform. 
 
-Encourage people to come out of their offices and see the world by themselves. Encourage them to be envvironment concious by means of traveling. Provide them with a tool to help poor but talented vendors whom they met on a remote highway or next to some vilage by sharing their location and about them. 
+Encourage people to come out of their offices and see the world by themselves. Encourage them to be envvironment concious by means of traveling. Provide them with a tool to help poor but talented vendors whom they met on a remote highway or next to some village by sharing their location and about them. 
 
 ### Why this Project
 
