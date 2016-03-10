@@ -9,4 +9,5 @@ Sailors |
 **Motivation** : ```You are a fool if you think you know everything.```
 
 **Says** : ```Brightest of the thoughts come when you are covered in darkness. Do not submit to the darkness, look for the light of your thoughts to fight and concur the darkness.``` |
+-------------------------------------------------------------
 
